@@ -10,7 +10,7 @@ Most of the steps should be the same. **Requires latest wifibroadcast version**
 
 # Telemetry Protocols
 
-Currently supports Frsky D-Series Protocol and Light Telemetry (LTM). Mavlink and others might follow later.
+Currently supports Frsky D-Series Protocol, MavLink and Light Telemetry (LTM)
 
 # Possible issues
 1) The AHI might indicate the opposite direction. This can be fixed by changing this part in render.c
